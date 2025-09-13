@@ -4,7 +4,7 @@
   [Repo Link](https://github.com/JacobOnion/BigMode-Jam-2025)  
   Tools used: Unity, C#  
   A puzzle game where you help a spark avoid glitches and navigate a circuit board. Made solo in 10 days for BigMode Jam 2025.
-  Skills improved: Unity knowledge , level design
+  Skills improved: Unity knowledge , level design  
 3. Group Project: Auction Website
   [Repo Link](https://github.com/JacobOnion/Auction-Website)  
   Tools Used: Flask, HTML, Bootstrap, JQuery  
@@ -24,6 +24,6 @@
 6. Game Jam Project: Conveyer Crusher
    [Repo Link](https://github.com/JacobOnion/Conveyer-Crusher)
    Tools used: Unity, C#, WebGL  
-   An arcade-style game about crushing fruit. Made solo in 72 hours for GMTK Jam 2025.
+   An arcade-style game about crushing fruit. Made solo in 72 hours for GMTK Jam 2025.  
    Skills improved: game feel, rapid prototyping
    
