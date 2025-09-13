@@ -23,7 +23,7 @@
    Skills improved: Organising complex projects, advanced C#, storing persistent data throughout game states
 6. Game Jam Project: Conveyer Crusher
    [Repo Link](https://github.com/JacobOnion/Conveyer-Crusher)
-   Tools used: Unity, C#, WebGL
+   Tools used: Unity, C#, WebGL  
    An arcade-style game about crushing fruit. Made solo in 72 hours for GMTK Jam 2025.
    Skills improved: game feel, rapid prototyping
    
