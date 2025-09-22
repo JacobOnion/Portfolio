@@ -1,6 +1,11 @@
 # Portfolio
 
-1. Game Jam Project: Circuit Breaker
+1.Game Jam Project Nodeloop
+   [Repo Link](https://github.com/JacobOnion/Nodeloop)  
+   Tools used: Unity, C#, WebGL  
+   An incremental game inspired by steam game Nodebuster where you get stronger through an expanding skill tree with unique upgrades. Made solo in 7 days for ShovelJam 2025.  
+   Skills improved: Organising complex projects, advanced C#, storing persistent data throughout game states
+2. Game Jam Project: Circuit Breaker
   [Repo Link](https://github.com/JacobOnion/BigMode-Jam-2025)  
   Tools used: Unity, C#  
   A puzzle game where you help a spark avoid glitches and navigate a circuit board. Made solo in 10 days for BigMode Jam 2025.  
@@ -16,12 +21,7 @@
    Tools used: Unity, C#, WebGL  
    A small bullet hell game about avoiding environmental hazards and collecting objects to progress. Made solo in 24 hours for Dundee Quackathon 2025  
    Skills improved: working under pressure, agile development skills  
-5. Game Jam Project Nodeloop
-   [Repo Link](https://github.com/JacobOnion/Nodeloop)  
-   Tools used: Unity, C#, WebGL  
-   An incremental game inspired by steam game Nodebuster where you get stronger through an expanding skill tree with unique upgrades. Made solo in 7 days for ShovelJam 2025.  
-   Skills improved: Organising complex projects, advanced C#, storing persistent data throughout game states  
-6. Game Jam Project: Conveyer Crusher
+5. Game Jam Project: Conveyer Crusher
    [Repo Link](https://github.com/JacobOnion/Conveyer-Crusher)  
    Tools used: Unity, C#, WebGL  
    An arcade-style game about crushing fruit. Made solo in 72 hours for GMTK Jam 2025.  
