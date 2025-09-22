@@ -4,7 +4,7 @@
    [Repo Link](https://github.com/JacobOnion/Nodeloop)  
    Tools used: Unity, C#, WebGL  
    An incremental game inspired by steam game Nodebuster where you get stronger through an expanding skill tree with unique upgrades. Made solo in 7 days for ShovelJam 2025.  
-   Skills improved: Organising complex projects, advanced C#, storing persistent data throughout game states
+   Skills improved: Organising complex projects, advanced C#, storing persistent data throughout game states  
 2. Game Jam Project: Circuit Breaker
   [Repo Link](https://github.com/JacobOnion/BigMode-Jam-2025)  
   Tools used: Unity, C#  
